@@ -56,22 +56,22 @@ h1{
 
 .btn-full:link,
 .btn-full:visited{
-    background-color: #16a085;
+    background-color: green;
     color: #fff;
-    border: 1px solid #16a085;
+    border: 1px solid green;
     margin-right: 10px;
 }
 
 
 .btn-ghost:link,
 .btn-ghost:visited{
-    border: 1px solid #16a085;
-    color: #16a085;
+    border: 1px solid green;
+    color: green;
 }
 
 .btn:hover,
 .btn:active{
-    background-color: #079992;
+    background-color: green;
 }
 
 
@@ -79,12 +79,12 @@ h1{
 
 .btn-full:hover,
 .btn-full:active{
-    border: 1px solid #079992;
+    border: 1px solid green;
 }
 
 .btn-ghost:hover,
 .btn-ghost:active{
-    border: 1px solid #079992;
+    border: 1px solid green;
     color: #fff;
 }
 
